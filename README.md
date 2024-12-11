@@ -1,4 +1,4 @@
-# Reto-5
+# Reto-5 (adjunto se dejan los ejercicios resueltos)
 ## Se realizan los siguientes ejercicios.
 ### Ejercicio 1.
 Dado la figura de la imagen, desarrolle:
