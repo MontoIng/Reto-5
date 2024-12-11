@@ -1,5 +1,5 @@
-# Reto-5 (adjunto se dejan los ejercicios resueltos)
-## Se realizan los siguientes ejercicios.
+# Reto-5
+## Se realizan los siguientes ejercicios (adjunto se dejan los ejercicios resueltos).
 ### Ejercicio 1.
 Dado la figura de la imagen, desarrolle:
 ![image](https://github.com/user-attachments/assets/3ba2e959-f08b-4f00-aedd-7f657534dfba)
